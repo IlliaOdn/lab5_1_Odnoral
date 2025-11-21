@@ -19,6 +19,7 @@ display: flex;
 justify-content: center;
 position: fixed;
 z-index: 5;
+top: 0;
 }
 nav {
 width: 90%;
@@ -136,4 +137,5 @@ color: #fff;
 font-family: "Roboto", sans-serif;
 
 font-weight: 600;
+
 }
